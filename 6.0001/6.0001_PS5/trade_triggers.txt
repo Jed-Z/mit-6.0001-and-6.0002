@@ -1,0 +1,25 @@
+// MIT 6.0001 PS5
+// Problem 12：关于贸易战的触发器
+// Jed 2019-05-24
+
+
+// 标题中含有“trade”
+t1,TITLE,trade
+
+// 在2019年5月15日后
+t2,AFTER,15 May 2019 00:00:00
+
+// 描述中含有“Huawei”
+t3,DESCRIPTION,Huawei
+
+// 描述中含有“Trump”
+t4,DESCRIPTION,Trump
+
+// t1与t2
+t5,AND,t2,t3
+
+// t3与t4
+t6,AND,t1,t4
+
+// 加入触发器列表
+ADD,t5,t6
