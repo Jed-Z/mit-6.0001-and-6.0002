@@ -1,0 +1,5 @@
+Jesse,6
+Maybel,3
+Trump,15
+Callie,2
+Maggie,5
