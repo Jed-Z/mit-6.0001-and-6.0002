@@ -1,6 +1,6 @@
 # MIT OCW 6.0001 and 6.0002
 
-博客文章：
+博客文章
 
 * 6.0001: Introduction to Computer Science and Programming in Python
   * MIT 6.0001 PS0（暂无）
